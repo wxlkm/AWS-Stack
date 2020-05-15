@@ -1,1 +1,1 @@
-# AWS-Stack
+# AWS CloudFormation Stack Template
